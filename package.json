@@ -19,12 +19,12 @@
     "heroku",
     "discord.js"
   ],
-  "author": "Wolfie",
+  "author": "StrikeDevelopment",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Wolfkid200444/WolfkidFakeBot/issues"
+    "url": "https://github.com/StrikeDevelopment/WolfkidFakeBot/issues"
   },
-  "homepage": "https://github.com/Wolfkid20044/WolfkidFakeBot#readme",
+  "homepage": "https://github.com/StrikeDevelopment/WolfkidFakeBot#readme",
   "dependencies": {
     "discord.js": "11.3.2"
   }
