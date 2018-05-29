@@ -2,7 +2,7 @@
   "name": "WarNado",
   "version": "1.0.0",
   "description": "Simple Bot For Some Random User Call Wolfkid",
-  "main": "index.js",
+  "main": "WarNado.js",
   "engines": {
     "node": "10.0.0",
     "npm": "*"
