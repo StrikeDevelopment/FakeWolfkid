@@ -5,7 +5,7 @@ const config = require('./config.json');
 client.on('ready', () => {
     client.user.setStatus('dnd');
     client.user.setActivity('Prefix - | -help', {type: 'WATCHING'});
-    console.log('BOI I\'m ready!');
+    console.log('BOI Im ready!');
 });
 
 client.on('message', async message => {
